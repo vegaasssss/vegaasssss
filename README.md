@@ -1,4 +1,4 @@
-<h2> Hey! I'm Veg.as.</h2>
+<h2> Hey! I'm veg.as.</h2>
 
 <h3> 👨🏻‍💻 |&nbsp;Personal information...</h3>
 
